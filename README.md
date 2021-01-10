@@ -1,2 +1,3 @@
 # lachetquentin.github.io
-My portfolio site that I have to realize to validate my school year, it will reference my Curriculum Vitae, my technology watch, my professional situation/internships and my projects.
+*My portfolio, a project that I must complete to validate my school year of Computer Science Higher National Diploma, which will contain my curriculum vitae, my projects and my internships.*
+<https://lachetquentin.github.io/>
