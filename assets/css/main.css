@@ -1657,3 +1657,12 @@ input, select, textarea {
 		#situationpro, #dwu, #slamfingers, #grandquizz, #heroicquest, #chaussnet, #netbouquet, #veille {
 			text-align: center;
 		}
+
+		.flex-container {
+			text-align: center;
+		}
+
+		.equipe {
+			display:inline-block;
+			text-align:left;
+		}
