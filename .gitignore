@@ -1,0 +1,5 @@
+# Ignore bak folder
+.bak
+
+# Ignore idea folder
+.idea
